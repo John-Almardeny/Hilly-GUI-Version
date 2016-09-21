@@ -1,5 +1,5 @@
 # Hill-6-Cipher
-Almardeny Program For Encrypting &amp; Decryption
+This is a version of Hilly (an improved version of Hill-Ciper) For Encrypting &amp; Decryption mad on Visual Basic
 
 A new Hill-6 Cipher Approach to encrypt and decrypt messages including chars, numbers and some symbols.
 Made in Visual Basic with help of Ms Excel "interoperability".
