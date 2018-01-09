@@ -1,4 +1,4 @@
-# Hill-6-Cipher
+# Old Hilly Cipher
 This is test of an old version of Hilly during the development process, made in Visual Basic.
 Please note that this repo includes onlt the executable files not the source code.
 
